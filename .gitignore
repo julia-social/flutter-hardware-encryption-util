@@ -1,0 +1,81 @@
+# Flutter/Dart related files
+.dart_tool/
+.packages
+.pub/
+build/
+
+# iOS related files
+ios/Flutter/.last_build_id
+ios/Pods
+ios/Runner.xcworkspace/
+ios/Runner.xcarchive
+ios/*.xcuserdatad/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/ServiceDefinitions.json
+
+# Android related files
+android/.gradle/
+android/app/*.keystore
+android/local.properties
+android/*.iml
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+android/app/build/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+
+# Web related files
+web/manifest.json
+web/.dart_tool/
+
+# MacOS related files
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/Runner.xcworkspace/
+macos/Runner/GeneratedPluginRegistrant.swift
+macos/Runner/GeneratedPluginRegistrant.m
+
+# Windows related files
+windows/Flutter/ephemeral/
+
+# Linux related files
+linux/flutter/ephemeral/
+
+# Fuchsia related files
+.fuchsia/
+
+# User-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.DS_Store
+*.vscode/
+.vscode/
+*.log
+*.tmp
+*.temp
+*.tmproj
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Ignore IntelliJ IDEA module files
+*.iws
+.idea/
+*.iml
+
+# ignore this readme file
+!README.md
