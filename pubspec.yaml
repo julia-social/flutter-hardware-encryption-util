@@ -1,7 +1,7 @@
 name: encryption_util
 description: A Flutter plugin for encryption and decryption using secure elements.
 version: 0.0.1
-homepage: https://example.com
+homepage: https://julia.social
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
